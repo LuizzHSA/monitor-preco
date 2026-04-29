@@ -1,8 +1,8 @@
-# 🚀 PriceWatch — Sistema de Monitoramento de Preços
+# 🚀 Monitor de precos — Sistema de Monitoramento de Preços
 
 ## 📌 Visão Geral
 
-O **PriceWatch** é um sistema web leve para monitoramento de preços de fornecedores, com foco em **detecção de alterações** e **alertas inteligentes de vencimento**.
+O **Monitor de Precos** é um sistema web leve para monitoramento de preços de fornecedores, com foco em **detecção de alterações** e **alertas inteligentes de vencimento**.
 
 A solução permite que empresas acompanhem a evolução de preços e tomem decisões mais rápidas, evitando prejuízos com ofertas expiradas ou alterações inesperadas.
 
@@ -16,7 +16,7 @@ Empresas frequentemente:
 - Não percebem mudanças de preços em tempo hábil
 - Não possuem histórico organizado para análise
 
-👉 O PriceWatch resolve isso com **automação simples e visual clara**.
+👉 O Monitor resolve isso com **automação simples e visual clara**.
 
 ---
 
@@ -92,7 +92,7 @@ Ao cadastrar um novo preço:
 ### Estrutura
 
 ```
-price-monitor/
+monitor - precos/
 ├── backend/
 ├── frontend/
 ├── docs/
@@ -221,8 +221,8 @@ Sinta-se à vontade para contribuir com melhorias ou sugestões.
 
 ## 📬 Contato
 
-- LinkedIn: (adicione aqui)
-- GitHub: (adicione aqui)
+- LinkedIn: [luizzhsa](https://www.linkedin.com/in/luizhsa)
+- Gmail: [Luiz](seniorlulu20@gmail.com)
 
 ---
 
